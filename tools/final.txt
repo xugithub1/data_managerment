@@ -1,0 +1,110 @@
+{
+    "gac": [
+        "gac/train/guangqi_20211118_c0.json", "gac/train/guangqi_20211118_c2.json", "gac/train/guangqi_20211118_c3.json",
+        "gac/train/guangqi_20211119_c0.json", "gac/train/guangqi_20211119_c2.json", "gac/train/guangqi_20211119_c3.json",
+        "gac/train/guangqi_20211203-am_c0.json", "gac/train/guangqi_20211203-am_c2.json",
+        "gac/train/guangqi_20211206_c0.json", "gac/train/guangqi_20211206_c2.json", "gac/train/guangqi_20211206_c3.json",
+        "gac/train/guangqi_20211207_c0.json", "gac/train/guangqi_20211207_c2.json", "gac/train/guangqi_20211207_c3.json",
+        "gac/train/guangqi_20211208_c0.json", "gac/train/guangqi_20211208_c2.json", "gac/train/guangqi_20211208_c3.json",
+        "gac/train/guangqi_20211210_c0.json", "gac/train/guangqi_20211210_c2.json", "gac/train/guangqi_20211210_c3.json",
+        "gac/train/guangqi_20211211_c0.json", "gac/train/guangqi_20211211_c2.json", "gac/train/guangqi_20211211_c3.json",
+        "gac/train/guangqi_20211212_c0.json", "gac/train/guangqi_20211212_c2.json", "gac/train/guangqi_20211212_c3.json",
+        "gac/train/guangqi_20220121_c0.json", "gac/train/guangqi_20220121_c2.json", "gac/train/guangqi_20220121_c3.json",
+        "gac/train/guangqi_20220302_c0.json", "gac/train/guangqi_20220302_c2.json", "gac/train/guangqi_20220302_c3.json",
+        "gac/train/guangqi_20220303_c0.json", "gac/train/guangqi_20220303_c2.json", "gac/train/guangqi_20220303_c3.json",
+        "# shlg GAC",
+        "gac/train/guangqi_2022_03_rare_type_mining_c2.json", 
+        "gac/train/guangqi_244-269_c2.json", "gac/train/guangqi_59-71_c2.json",
+        "gac/train/guangqi_0-28_c0.json", "gac/train/guangqi_0-28_c2.json", "gac/train/guangqi_0-28_c3.json",
+        "gac/train/guangqi_301-320_c0.json", "gac/train/guangqi_301-320_c2.json", "gac/train/guangqi_301-320_c3.json",
+        "gac/train/guangqi_31-58_c0.json", "gac/train/guangqi_31-58_c2.json", "gac/train/guangqi_31-58_c3.json",
+        "gac/train/guangqi_355-360_c0.json", "gac/train/guangqi_355-360_c2.json", "gac/train/guangqi_355-360_c3.json",
+        "# AEB",
+        "gac/train/guangqi_CCRS_c0.json", "gac/train/guangqi_CCRS_c2.json",
+        "gac/train/guangqi_AEB_data06_c0.json", "gac/train/guangqi_AEB_data06_c2.json",
+        "gac/train/guangqi_CSFA50_c0.json", "gac/train/guangqi_CSFA50_c2.json",
+        "gac/train/guangqi_0529CPFA_c0.json", "gac/train/guangqi_0529CPFA_c2.json",
+        "gac/train/guangqi_0530-CPNSOC-50_c0.json", "gac/train/guangqi_0530-CPNSOC-50_c2.json",
+        "gac/train/guangqi_0602-cambag_c0.json", "gac/train/guangqi_0602-cambag_c2.json",
+        "# rain",
+        "gac/train/guangqi_0507-gqy-lpw-gac20_c0.json", "gac/train/guangqi_0507-gqy-lpw-gac20_c2.json",
+        "gac/train/guangqi_0510-6-linpeiwen_c0.json", "gac/train/guangqi_0510-6-linpeiwen_c2.json",
+        "gac/train/guangqi_0512-6-lpw-GAC20_c0.json", "gac/train/guangqi_0512-6-lpw-GAC20_c2.json",
+        "gac/train/guangqi_swc4.2.3-gac20-0501rain_c0.json", "gac/train/guangqi_swc4.2.3-gac20-0501rain_c2.json", "gac/train/guangqi_swc4.2.3-gac20-0501rain_c3.json",
+        "#gac/train/guangqi_highway_rainy_data01_c2.json",
+        "# lukou",
+        "#gac/train/guangqi_gac_lukou_data01_1_c2.json", "#gac/train/guangqi_gac_lukou_data01_2_c2.json",
+        "gac/train/guangqi_lukou_data0102_mix.json", "gac/train/guangqi_gac_20220504_bugfix_c2.json",
+        "# toll station",
+        "gac/train/guangqi_toll_station_c0.json", "gac/train/guangqi_toll_station_c2.json", "gac/train/guangqi_toll_station_c3.json",
+        "# mergesplit",
+        "gac/train/guangqi_mergesplit_c0.json", "gac/train/guangqi_mergesplit_c2.json", "gac/train/guangqi_mergesplit_c3.json",
+        "# wandao",
+        "gac/train/guangqi_wandao_c0.json", "gac/train/guangqi_wandao_c2.json", "gac/train/guangqi_wandao_c3.json",
+        "# lane miss",
+        "gac/train/guangqi_GAC17-lane_miss_c2.json",
+        "# breakpoints",
+        "gac/train/guangqi_breakpoints_data01_2022_03_c0.json", "gac/train/guangqi_breakpoints_data02_2022_03_c0.json",
+        "gac/train/guangqi_breakpoints_data03_2020_01_c0.json", "gac/train/guangqi_breakpoints_data04_2020_01_c0.json",
+        "gac/train/guangqi_breakpoints_data05_2022_04_c0.json", "gac/train/guangqi_breakpoints_data06_2022_04_c0.json",
+        "gac/train/guangqi_breakpoints_data07_2022_04_c0.json", "gac/train/guangqi_breakpoints_data08_2022_04_c0.json"
+    ],
+    "pilot": [
+        "pilot/train/pilot_453_camera_0.json", "pilot/train/pilot_453_camera_2.json",
+        "pilot/train/pilot_462_camera_0.json", "pilot/train/pilot_462_camera_2.json",
+        "pilot/train/pilot_466_camera_0.json", "pilot/train/pilot_466_camera_2.json",
+        "pilot/train/pilot_472_camera_0.json", "pilot/train/pilot_472_camera_2.json",
+        "pilot/train/pilot_514_camera_0.json", "pilot/train/pilot_514_camera_2.json",
+        "pilot/train/pilot_515_camera_0.json", "pilot/train/pilot_515_camera_2.json",
+        "pilot/train/pilot_516_camera_0.json", "pilot/train/pilot_516_camera_2.json",
+        "pilot/train/pilot_528_camera_0.json", "pilot/train/pilot_528_camera_2.json",
+        "pilot/train/pilot_531_camera_0.json", "pilot/train/pilot_531_camera_2.json",
+        "pilot/train/pilot_546_camera_0.json", "pilot/train/pilot_546_camera_2.json",
+        "pilot/train/pilot_547_camera_0.json", "pilot/train/pilot_547_camera_2.json",
+        "pilot/train/pilot_580_camera_2.json", "pilot/train/pilot_584_camera_2.json",
+        "pilot/train/pilot_593_camera_0.json", "pilot/train/pilot_593_camera_2.json",
+        "# old data",
+        "pilot/train/pilot_mergesplit_v1-5_c2.json", "pilot/train/pilot_mergesplit_v1-6_c2.json",
+        "pilot/train/pilot_mergesplit_v1-7_c2.json", "pilot/train/pilot_mergesplit_v1-8_12_c2.json",
+        "pilot/train/pilot_rare_type_mining_data01_c2.json", "pilot/train/pilot_rare_type_mining_data02_c2.json"
+    ], 
+    "baidu": [
+        "baidu/train/guangqi_baidu_v1_highway_c0.json", "baidu/train/guangqi_baidu_v1_highway_c2.json",
+        "baidu/train/guangqi_baidu_v2_city_c0.json", "baidu/train/guangqi_baidu_v2_city_c2.json",
+        "baidu/train/guangqi_baidu_v3_city_c0.json", "baidu/train/guangqi_baidu_v3_city_c2.json",
+        "baidu/train/guangqi_baidu_v4_c0.json", "baidu/train/guangqi_baidu_v4_c2.json",
+        "baidu/train/guangqi_baidu_v5_urban_expressway_c0.json", "baidu/train/guangqi_baidu_v5_urban_expressway_c2.json",
+        "baidu/train/guangqi_baidu_v6_urban_expressway_c0.json", "baidu/train/guangqi_baidu_v6_urban_expressway_c2.json",
+        "baidu/train/guangqi_baidu_v7_urban_expressway_c0.json", "baidu/train/guangqi_baidu_v7_urban_expressway_c2.json",
+        "baidu/train/guangqi_baidu_v8_city_c0.json", "baidu/train/guangqi_baidu_v8_city_c2.json"
+    ],
+    "lukou": [
+        "#gac/train/guangqi_gac_lukou_data01_1_c2.json", "#gac/train/guangqi_gac_lukou_data01_2_c2.json",
+        "gac/train/guangqi_lukou_data0102_mix.json", "gac/train/guangqi_gac_20220504_bugfix_c2.json"
+    ],
+    "gac_curve_c2":[
+        "gac/mining/curve_lane_c2.json"
+    ],
+    "gac_curve":[
+        "gac/mining/curve_lane.json"
+    ],
+    "gac_change_c2":[
+        "gac/mining/change_lane_c2.json"
+    ],
+    "gac_change":[
+        "gac/mining/change_lane.json"
+    ],
+    "gac_roadmarker_c2":[
+        "gac/mining/roadmarker_c2.json"
+    ],
+    "gac_lane_truncation_c2":[
+        "gac/mining/lane_truncation_c2.json"
+    ],
+    "breakpoints": [
+        "gac/train/guangqi_breakpoints_data01_2022_03_c0.json", "gac/train/guangqi_breakpoints_data02_2022_03_c0.json",
+        "gac/train/guangqi_breakpoints_data03_2020_01_c0.json", "gac/train/guangqi_breakpoints_data04_2020_01_c0.json",
+        "gac/train/guangqi_breakpoints_data05_2022_04_c0.json", "gac/train/guangqi_breakpoints_data06_2022_04_c0.json",
+        "gac/train/guangqi_breakpoints_data07_2022_04_c0.json", "gac/train/guangqi_breakpoints_data08_2022_04_c0.json"
+    ]
+}
+
